@@ -1,0 +1,18 @@
+<svg width="580" height="215" viewBox="0 0 580 215" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="580" y2="215">
+        <stop stop-color="#0D1117"/>
+        <stop offset="1" stop-color="#151924"/>
+      </linearGradient>
+    </defs>
+    <rect x="1.5" y="1.5" width="577" height="212" rx="18" fill="url(#bg)" stroke="#39D0D8" stroke-width="3"/>
+    <circle cx="42" cy="48" r="11" fill="#39D0D8" fill-opacity=".18" stroke="#39D0D8" stroke-width="2"/>
+    <rect x="37" y="42" width="10" height="12" rx="2" fill="#39D0D8"/>
+    <text x="70" y="58" fill="#39D0D8" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="800">UWB Mecanum AGV</text>
+    <text x="32" y="103" fill="#D0D7DE" font-family="Segoe UI,Arial,sans-serif" font-size="16">Autonomous mecanum robot with UWB localization</text>
+    <text x="32" y="129" fill="#8B949E" font-family="Segoe UI,Arial,sans-serif" font-size="15">Sensor fusion, odometry and embedded motion control.</text>
+    <line x1="32" y1="152" x2="548" y2="152" stroke="#30363D"/>
+    <circle cx="43" cy="183" r="7" fill="#39D0D8"/>
+    <text x="59" y="189" fill="#B1BAC4" font-family="Segoe UI,Arial,sans-serif" font-size="14">ESP32 · UWB · Odometry · Kalman / EKF</text>
+    <text x="530" y="190" fill="#39D0D8" font-family="Segoe UI,Arial,sans-serif" font-size="23">→</text>
+    </svg>
